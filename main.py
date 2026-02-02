@@ -31,9 +31,10 @@ for i in range(5):
 input = input("Enter your name: ")
 print("Hello ", input)
 
+#call variable 
 age = int(input("Enter your age: "))
 print("You are ", age, " years old")
-
+#other method
 height = float(input("Enter your height in meters: "))
 print(f"You are {height} meters tall")
 '''This is a 
@@ -97,6 +98,7 @@ main()
 #coding is more about journey. not build cool stuff. 
 
 #learn from a youtube video how to code. you don't need me.     
+
 
 
 
